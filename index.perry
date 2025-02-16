@@ -1,0 +1,4 @@
+sigma x = 10;
+sigma y = 10;
+sigma result = x+y;
+yap(result);
